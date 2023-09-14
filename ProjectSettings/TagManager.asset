@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Background
+  - Cloud
+  - Sky
+  - Box
+  - button
+  - tree
+  - player
+  - Ground_wall
+  - Sun
+  - underground
+  - Mountain
+  - Shadow_mountain
+  - papanclue
+  - baloon_clue
+  - switchContainer
+  - triggerSwitch
+  - PaperClue
+  - Rock
+  - Text
+  - Checkpoint
+  - NextCL
+  - Trap
+  - ClosePath
+  - ActivateTrap
+  - Activatepapan
+  - Activatepapan_2
+  - Level1
+  - Level2
+  - Level3
+  - Papertrap
+  - Papertrap_2
+  - Papertrap_3
+  - Papertrap_4
+  - Papertrap_5
+  - PapanFloating
+  - Startpapan
+  - FinishPoint
+  - Level4
+  - Level5
+  - Finish_2
+  - NextCL_2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Background
+  - Box
+  - Clouds
+  - Tree
+  - Sky
+  - button
+  - Sun
+  - underground
+  - Mountain
+  - shadow_mountain
+  - Paperclue
+  - papanclue
+  - baloon_clue
+  - buttonaction
+  - switchContainer
+  - triggerSwitch
+  - Bridge
+  - TrapIronSword
+  - Rock
+  - Checkpoint
+  - papanFLT
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 2345343599
+    locked: 0
+  - name: Shadow_mountain
+    uniqueID: 3116372435
+    locked: 0
+  - name: Mountain
+    uniqueID: 1160359895
+    locked: 0
+  - name: Sun
+    uniqueID: 568243091
+    locked: 0
+  - name: Cloud
+    uniqueID: 1815575033
+    locked: 0
+  - name: Tree
+    uniqueID: 2808593129
+    locked: 0
+  - name: Box
+    uniqueID: 1821944985
+    locked: 0
+  - name: baloon_clue
+    uniqueID: 3093532937
+    locked: 0
+  - name: papanclue
+    uniqueID: 3345456683
+    locked: 0
+  - name: triggerSwitch
+    uniqueID: 1404916289
+    locked: 0
+  - name: switchContainer
+    uniqueID: 1212692635
+    locked: 0
+  - name: Paperclue
+    uniqueID: 2394861895
+    locked: 0
+  - name: TrapIronSword
+    uniqueID: 1380505285
+    locked: 0
+  - name: Finish
+    uniqueID: 3625155157
+    locked: 0
+  - name: papanPath
+    uniqueID: 3766631527
+    locked: 0
+  - name: Bridge
+    uniqueID: 2370565209
+    locked: 0
+  - name: NextCL
+    uniqueID: 35251567
+    locked: 0
+  - name: Foreground
+    uniqueID: 3854057799
+    locked: 0
+  - name: Trap
+    uniqueID: 1776845963
+    locked: 0
+  - name: Rock
+    uniqueID: 852272303
+    locked: 0
+  - name: Ground
+    uniqueID: 2028619325
+    locked: 0
+  - name: underground
+    uniqueID: 1160560979
+    locked: 0
+  - name: Player
+    uniqueID: 3856011491
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
